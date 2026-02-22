@@ -11,7 +11,7 @@
 
 ## Примеры работ
 - [Тест-кейсы для формы авторизации](https://docs.google.com/spreadsheets/d/1lmKfHOq324pCSIoiSITvaIlgx_Rp664n_2Nst_dbo_c/edit?usp=sharing)]
-- [Чек-лист для интернет-магазина](ссылка_на_google_sheets)
+- [Чек-лист для интернет-магазина](https://docs.google.com/spreadsheets/d/181-1I3diPHCyCg3UODMKiNDF5hMdbzwqLxkNoxm7nu0/edit?usp=sharing)
 - [Примеры баг-репортов](ссылка_на_google_sheets)
 
 ## Контакты
