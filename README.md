@@ -11,6 +11,7 @@
 
 ## Примеры работ
 - [Тест-кейсы для формы авторизации](https://docs.google.com/spreadsheets/d/1lmKfHOq324pCSIoiSITvaIlgx_Rp664n_2Nst_dbo_c/edit?usp=sharing)
+- [Тест-кейсы для формы личного кабинета]
 - [Чек-лист для интернет-магазина](ссылка_на_google_sheets)
 - [Примеры баг-репортов](ссылка_на_google_sheets)
 
