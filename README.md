@@ -1,3 +1,4 @@
+![фото]("C:\Users\Azerty\Desktop\unnamed.jpg")
 # Луговой Борис — Junior Manual QA
 
 ---
