@@ -1,4 +1,6 @@
-![фото]("C:\Users\Azerty\Desktop\unnamed.jpg")
+
+![unnamed](https://github.com/user-attachments/assets/84d62dd1-97c8-4f07-ab51-421772bccd93)
+
 # Луговой Борис — Junior Manual QA
 
 ---
