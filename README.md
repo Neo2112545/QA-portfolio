@@ -1,8 +1,12 @@
-<img src="https://github.com/user-attachments/assets/84d62dd1-97c8-4f07-ab51-421772bccd93" width="120" height="120" align="left" style="border-radius: 50%; margin-right: 20px; margin-bottom: 10px;">
-
-# Луговой Борис — Junior Manual QA
-
-<br clear="left">
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://github.com/user-attachments/assets/84d62dd1-97c8-4f07-ab51-421772bccd93" 
+       width="120" 
+       height="120" 
+       style="border-radius: 50%; object-fit: cover; border: 2px solid #2d9cdb; flex-shrink: 0;">
+  <div>
+    <h1>Луговой Борис — Junior Manual QA</h1>
+  </div>
+</div>
 
 ---
 
@@ -12,7 +16,7 @@
 
 Благодаря опыту в банковской сфере умею работать с большим объемом информации, внимателен к деталям и привык к высоким стандартам качества.
 
-*(дальше весь остальной текст остается без изменений)*
+*(дальше весь текст без изменений)*
 
 ---
 
